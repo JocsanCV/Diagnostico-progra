@@ -1,0 +1,2 @@
+# Diagnostico-progra
+Diagnostico programación
